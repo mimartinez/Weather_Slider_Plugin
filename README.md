@@ -3,7 +3,7 @@ Weather-Slider-Plugin
 
 Weather Slider - a plugin WordPress for read the weather from Yahoo! Weather with slider effect
 
-Installation Instructions:
+<b>Installation Instructions:<b/>
 
 1 - Download the plugin and unzip it.
 
